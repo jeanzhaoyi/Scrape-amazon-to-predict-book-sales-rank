@@ -1,4 +1,4 @@
-# Capstone_1
+# Amazon Sales Ranking Prediction
 
 Data collection:
 "fun_ParseReviews.py" has two functions-- downloading an html file for a given url, and scraping a book given its book review url
